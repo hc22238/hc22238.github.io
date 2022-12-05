@@ -2,8 +2,6 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.sony.songpal.mdr",
-    "sha256_cert_fingerprints":
-    ["AB:0E:79:02:B4:FC:40:79:CE:E7:AA:30:6B:85:4F:BB:E3:5A:98:8B:B7:12:63:38:F5:0A:33:02:17:0A:5C:A6"]
+    "package_name": "com.sony.songpal.mdr"
   }
 }]
